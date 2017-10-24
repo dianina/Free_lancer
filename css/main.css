@@ -1,0 +1,104 @@
+/*
+ * Estilos de tu proyecto
+ */
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+  	font-family: 'Lato', sans-serif;
+  	padding-top: 120px; /* Relleno sup igual alt cabecera*/
+}  
+
+/*Comienza encabezado fijo */
+#contenedor {
+  width: 1252px;
+  height: 100px;
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: -120px;
+  padding-left: 14px;
+  padding-right: 14px;
+  background: #2C3E50;
+  color: #FFF;
+  position: fixed;
+}
+#contenedor h1 {
+	float: left;
+	margin-top: 0px;
+}
+#lista a {
+  font-size: bolder;
+  float: right;
+  text-decoration: none;
+  color: #FFF;
+  text-align: right;
+  display: inline-block;
+}
+/*Termina encabezado fijo*/
+ 
+
+/*Comienza zona azul */
+/* fondo*/
+#azul {
+  width: 1280px;
+  height: 730px;
+  margin-top: -20px;
+  margin-left: 0;
+  background: #18BC9C;
+  position: relative;
+}
+#mono {
+	vertical-align: middle;
+	margin-left: 40%;
+	position: relative;
+}
+
+/*Texto 1.  Zona azul*/
+#text_1 h1 {
+	color: #FFF;
+	font-size: 74px; 
+	text-align: center;
+	font-weight: 900;
+}
+
+#text_2  {
+	background: #fff;
+	height: 7px;
+	width: 2px;
+	position: absolute;
+}
+
+#line_1 {
+	height: 1px;
+	width: 1px;
+	margin-left: 480px;
+  position: absolute;
+}
+
+#star i{
+  padding: 0;
+  color: #FFF;
+  margin-left: 620px;
+  margin-top: -6px;
+  size: 32px;
+  position: absolute;
+}
+ 
+#line_2 {
+  height: 1px;
+  width: 1px;
+  margin-left: 660px;
+  margin-top: -1px;
+  position: absolute;
+}
+
+#text_2  h4{
+  display: inline;
+  width: 20px;
+  position: float;
+  white-space: nowrap; /*poner texto horiz*/
+}
+
+  
