@@ -1,3 +1,27 @@
+####Versión 1.0  29/10/17
+
+NOTAS GENERALES
+
+-  Archivos realizados y actualizados para aplicar el Reto de Código de Unidad 1.  Sprint 2.
+
+-  Maqueta de FREELANCER.
+
+-  El maquetado consta de las siguientes partes:
+
+  * Encabezado (Con etiqueta nav).
+  * Secciones internas (fondos azul, blanco,calipso).
+  * Footer
+
+-  Encabezado consta de: Contenedor, logo y menu de navegación.
+-  Sección fondo azul consta de: background, imagen central divs con elementos h1 y h4, además hay elementos de línea e icono (estrella).
+-  Sección fondo blanco consta de: divs con elementos de texto, además tag hr para línea de división, imágenes (malla de divs), y elementos de línea e icono (estrella).
+-  Secciòn fondo calipso consta de:  divs con elementos h1, tabla con tags tr y td, pseudo clase first-child y nth-child, también elementos de línea, icono (estrella).
+
+
+Diana Chaparro Castro
+
+-----------------------------------------------------
+
 # Freelancer
 
 * **Track:** _Common Core_
